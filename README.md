@@ -1,5 +1,6 @@
 # error
 Website for Error
+---
 [Invite Error](https://app.revolt.chat/bot/01J83YX2FBJMJZ4QW0MXSF1H33)
 
 # Usage
